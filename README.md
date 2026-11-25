@@ -62,6 +62,6 @@ Project-Alpha/
 
 ## Author
 
-**Navida Sathsindu Wijesuriya (RC-JESTOR)**  
+**Navida Sathsindu Wijesooriya (RC-JESTOR)**  
 Cyber Security & IT Graduate | National CTF Finalist & Top Performer  
 [GitHub](https://github.com/RC-JESTOR) • [LinkedIn](https://www.linkedin.com/in/navida-wijesooriya)
